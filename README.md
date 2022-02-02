@@ -2,8 +2,6 @@
   <p>🌱 I’m currently learning HTML5, CSS3 and JavaScript. <br>
     🔭 I'm looking to help with markup and programming languages.
   </p>
-  
-  ##
     
  <div align="left">
   <a href="https://github.com/fernandoquirino">
