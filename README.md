@@ -17,7 +17,7 @@
     
   ![Snake animation](https://github.com/fernandoquirino/fernandoquirino/blob/output/github-contribution-grid-snake.svg)
   
-  https://pt.phoneky.com/gif-animations/?id=s2s24064#gsc.tab=0
+  ![homem_letra](https://user-images.githubusercontent.com/98241801/152612029-d575e4ab-341d-41c8-85f7-7ee0341212b4.gif)
 
 
 <!--
