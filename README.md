@@ -17,7 +17,7 @@
     
   ![Snake animation](https://github.com/fernandoquirino/fernandoquirino/blob/output/github-contribution-grid-snake.svg)
   
-  <div align: center>
+  <div style="display: inline_block" align="center">
   ![homem_letra](https://user-images.githubusercontent.com/98241801/152612029-d575e4ab-341d-41c8-85f7-7ee0341212b4.gif)
   </div>
 
