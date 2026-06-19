@@ -1,6 +1,5 @@
 ### Hi there! 👋 I'm Fernando Quirino. 🤓
-  <p>🌱 I’m currently learning HTML5, CSS3 and JavaScript. <br>
-    🔭 I'm looking to help with markup and programming languages.
+  <p>🌱 I’m currently learning SQL, Python and PowerBI. <br>
   </p>
     
  <div align="left">
